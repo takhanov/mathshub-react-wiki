@@ -37,3 +37,7 @@ npm install --save-dev eslint-config-prettier
 		]
 }
 ```
+
+### Памятка по Git
+
+https://training.github.com/downloads/ru/github-git-cheat-sheet/
