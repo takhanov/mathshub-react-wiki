@@ -85,6 +85,7 @@ https://english-for-kids.netlify.com/ (версия без Hacker scope)
 - можно использовать [bootstrap](https://getbootstrap.com/), [material design](https://material.io/), css-фреймворки, html и css препроцессоры
 - Приложение должно быть SPA
 - Приложение должно быть написано на React
+- Текущий state приложения (состояние тренировки/игры, количество угаданных слов и пр.) хранится в Redux
 - Приложение должно ипользовать Firebase для храниния пользовательских данных и статистики
 - Приложение должны быть задеплоено на [Netlify](https://www.netlify.com/) либо [Vercel](https://vercel.com/) - туториалы про деплой указаны ниже
 - Деплоить нужно именно папку `dist`, которая создается с помощью команды `npm run build` в терминале (вместо `npm run dev`)
